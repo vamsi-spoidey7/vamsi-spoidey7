@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vamsimadugula7@gmail.com**
 
-- ⚡ Fun fact **I think I am in Simulaion**
+- ⚡ Fun fact **I am Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
