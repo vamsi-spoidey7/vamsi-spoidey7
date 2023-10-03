@@ -20,15 +20,15 @@
 <!-- Twitter -->
 <a href="https://twitter.com/vamsimadugula7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vamsimadugula7" height="30" width="40" /></a>
 <!-- Linkedin -->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vamsi-madugula-ba9376224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vamsi-madugula-ba9376224" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vamsi-madugula-ba9376224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vamsi-madugula-ba9376224" height="30" width="40" /></a>
 <!-- Code Chef -->
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/vamsi17_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vamsi17_coder" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vamsi17_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vamsi17_coder" height="30" width="40" /></a>
 <!-- Hacker Rank -->
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/vamsijoshi333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vamsijoshi333" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vamsijoshi333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vamsijoshi333" height="30" width="40" /></a>
 <!-- Leetcode -->
-<a href="https://www.leetcode.com/https://leetcode.com/itsvamsi18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/itsvamsi18/" height="30" width="40" /></a>
+<a href="https://leetcode.com/itsvamsi18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/itsvamsi18/" height="30" width="40" /></a>
 <!-- GFG -->
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vamsimadugula7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vamsimadugula7" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vamsimadugula7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vamsimadugula7" height="30" width="40" /></a>
 </p>
 
 
